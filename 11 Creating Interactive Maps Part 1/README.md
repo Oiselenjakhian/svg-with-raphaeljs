@@ -2,3 +2,5 @@
 Code Files for Week 11
 
 This week on SVG with RaphaelJS, I cover how to use RaphaelJS to create interactive maps. This is the first part of the two part section of Creating Interactive Maps using RaphaelJS.
+
+For the complete SVG map of Liberia, please view the code file for week 12.
